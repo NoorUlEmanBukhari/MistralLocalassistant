@@ -13,7 +13,6 @@ A fully offline AI chatbot interface built using the **Mistral 7B Instruct** mod
 ## Setup Instructions
 
 1. **Clone the repository**:
-   ```bash
  git clone https://github.com/NoorUlEmanBukhari/mistral-local-assistant.git
  cd mistral-local-assistant
 
@@ -22,6 +21,6 @@ A fully offline AI chatbot interface built using the **Mistral 7B Instruct** mod
  venv\Scripts\activate   # On Windows
 
 
-## Fun the App
+## Run the App
 python gradio_app.py
 
